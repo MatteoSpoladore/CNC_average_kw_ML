@@ -1,0 +1,7 @@
+Jvenv/
+extra/
+notebook_finale.ipynb
+__pycache__/
+*.pyc
+.vscode/
+.idea/

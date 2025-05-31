@@ -1,0 +1,14 @@
+# Cartelle da ignorare
+Jvenv/
+extra/
+__pycache__/
+
+# File Python compilati
+*.pyc
+
+# File Jupyter Notebook temporanei (opzionale ma utile)
+*.ipynb_checkpoints/
+
+# File generati da IDE (opzionali)
+.vscode/
+.idea/
